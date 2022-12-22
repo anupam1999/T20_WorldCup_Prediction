@@ -9,7 +9,7 @@ Developed  a streamlit web application  which predicts accuracy approx.80-90% of
 
 
 
-### User Interface Layouts
+## User Interface Layouts
 
 ![ui1](https://user-images.githubusercontent.com/41635465/209071844-eca64899-6ed1-4d87-9cd4-c667978315e8.png)
 
